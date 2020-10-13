@@ -320,7 +320,7 @@ has been incredibly fun and rewarding, while also being one of the more challeng
 undertakings I've committed to in quite a while. I'm so, so glad I did it.
 
 ## Credits
-* [Welcome to Night Vale](http://www.welcometonightvale.com)
+* [My MS1 Project](https://mcalistm.github.io/NightValeCommunityRadio/)
 * [Simen Daehlin](https://github.com/Eventyret)
 * Code Institute Slack Community
 * Code Institute Tutors
