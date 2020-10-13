@@ -30,7 +30,7 @@ and suggestions, and can be reached with my GitHub contact details.
       - [Bugs During Development](#bugs-during-development)
       - [Known Bugs](#known-bugs)
   * [Deployment](#deployment)
-      - [Running Night Vale Community Radio Locally](#running-night-vale-community-radio-locally)
+      - [Running Sexual Health Check Online Locally](#running-night-vale-community-radio-locally)
   * [Closing Notes](#closing-notes)
   * [Credits](#credits)
 
@@ -281,24 +281,24 @@ and there is a horizontal scroll.
 
 ## Deployment
 
-Night Vale Community Radio was developed in GitPod, hosted by GitHub and using git.
+Sexual Health Check Online was developed in GitPod, hosted by GitHub and using git.
 
-The following steps were followed to deploy Night Vale Community Radio through GitHub Pages:
+The following steps were followed to deploy Sexual Health Check Online through GitHub Pages:
 
 * Loaded **GitHub** in Chrome web browser.
 * Signed into GitHub.
 * Clicked on my **repositories**.
-* Navigated to **'mcalistm/NightValeCommunityRadio'**.
+* Navigated to **'mcalistm/SexualHealthCheckOnline'**.
 * Selected **'settings'**.
 * Navigated to the **GitHub Pages** area of the page. 
 * Selected **'Master Branch'** from the **'Source'** dropdown menu.
 * Confirmed my selection.
-* Night Vale Community Radio is now live on GitHub Pages.
+* Sexual Health Check Online is now live on GitHub Pages.
 
-#### Running Night Vale Community Radio Locally
+#### Running Sexual Health Check Online Locally
 
-Cloning Night Vale Community Radio from GitHub:
-* Navigate your screen to **/mcalistm/NightValeCommunityRadio**.
+Cloning Sexual Health Check Online from GitHub:
+* Navigate your screen to **/mcalistm/SexualHealthCheckOnline**.
 * Click on the green **Copy** button.
 * Copy the provided URL.
 * Start up the terminal of your choice with the IDE of your choice.
@@ -306,7 +306,7 @@ Cloning Night Vale Community Radio from GitHub:
 * To clone, copy this code and input it into your terminal: 
 
 ```
-https://github.com/mcalistm/NightValeCommunityRadio.git
+https://github.com/mcalistm/SexualHealthCheckOnline.git
 ```
 
 ## Closing Notes
