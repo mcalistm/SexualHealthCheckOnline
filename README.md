@@ -39,7 +39,10 @@ can seek out information on clinics and other supports in the Dublin area.
 
 ## UX User Experience
 ### Project Goals
-The goal of this project is to help users access community information and communicate with their radio station. It is aimed at citizens of Night Vale. The finished site should be clean and intuitive enough to be easily accessible, while also being appealing to the eye.
+The goal of this project is to help users access infromation pertaining to their sexual health. 
+It is aimed at people living in the Dublin area. The finished site will be clean and simple 
+enough to be easily accessible, with usability as the top priority - there are currently other 
+sites like this one in use, but they are cluttered and sometimes difficult to navigate.
 
 #### User Goals
 * A hub for community information that is easily accessible.
