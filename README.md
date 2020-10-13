@@ -128,7 +128,7 @@ show is that nobody really knows when Night Vale exists, and it is often hinted 
 
 ### Wireframes 
 
-I used [Balsamiq](https://balsamiq.com/) to build this project’s wireframe. You can view them [here](wireframes/wireframeNCVR.pdf).
+I used [Balsamiq](https://balsamiq.com/) to build this project’s wireframe. You can view them [here](wireframes/wireframesSHCO.pdf).
 
 ## Features
 
