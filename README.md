@@ -63,17 +63,15 @@ sites like this one in use, but they are cluttered and sometimes difficult to na
 ## User Requirements and Expectations
 ##### Requirements
 * Navigate the site using the navbar.
-* Be provided with community information.
-* Be able to apply for internships.
-* Be able to access the weather.
-* Be able to contact the radio station.
+* Be provided with accurate, up to date maps.
+* Be able to search for services by location.
+* Be able to contact the SHCO office.
 * Website is displayed appealingly.
 
 ##### Expectations
 * Can tap/click on navbar links to direct around the site.
-* Community calendar is up to date.
-* Weather forecast is up to date.
-* Contact and application forms are functional.
+* Maps are up to date.
+* Contact form is functional.
 * Navbar condenses to drop down menu in mobile/tablet view.
 * Website is appealing and provides accurate information.
 
