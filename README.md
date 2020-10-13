@@ -57,10 +57,8 @@ sites like this one in use, but they are cluttered and sometimes difficult to na
 * As a user I expect to be able to browse sexual health services.
 
 #### Site Owner Goals
-* Provide information to the community about upcoming events.
-* Gather application interest for internships.
-* Open pathways for communications from community.
-* Accurately display the weather, updated on a weekly basis.
+* Provide information to users about various sexual health services.
+* Provide users with the ability to contact us for further information.
 
 ## User Requirements and Expectations
 ##### Requirements
