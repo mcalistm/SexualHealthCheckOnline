@@ -45,18 +45,16 @@ enough to be easily accessible, with usability as the top priority - there are c
 sites like this one in use, but they are cluttered and sometimes difficult to navigate.
 
 #### User Goals
-* A hub for community information that is easily accessible.
-* Easy communication with the radio station through a contact form.
-* Access to the day’s weather.
-* Ability to apply for an internship at the radio station.
+* Easy communication with professionals at SHCO through a contact form.
+* Ability to search for services by location.
+* Ability to browse services.
 * Responsiveness to different devices.
 
 #### User Stories:
 
-* As a user I expect to be able to check the weather before leaving my house.
-* As a user I expect to know what the upcoming events in my community are.
-* As a user I expect to be able to be able to express interest in interning at the radio station.
-* As a user I expect to be able to add my event to the community calendar.
+* As a user I expect to be able to contact professionals at SHCO for assistance.
+* As a user I expect to be able to search for sexual health services by location.
+* As a user I expect to be able to browse sexual health services.
 
 #### Site Owner Goals
 * Provide information to the community about upcoming events.
