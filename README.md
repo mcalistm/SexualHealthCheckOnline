@@ -1,4 +1,4 @@
-# Night Vale Community Radio Website
+# Sexual Health Check Online Website
 
 ![Multi-Device Screenshot](./wireframes/multideviceNVCR.JPG "Mutli-Device Screenshot")
 
@@ -34,9 +34,8 @@ and suggestions, and can be reached with my GitHub contact details.
   * [Closing Notes](#closing-notes)
   * [Credits](#credits)
 
-Night Vale Community Radio is the radio station for the fictional desert town of Night Vale, created by Joseph Fink and Jeffrey Cranor in their podcast _Welcome to Night Vale_. The station is staffed by host Cecil Baldwin and a variety of interns, all of whom meet strange ends. While there are parts of Night Vale that seem mundane, it quickly becomes apparent that the town is comedically strange and dark - the daily weather is a song, the dog park is to be avoided at all costs, and the Sheriff's Secret Police will leave a carnation on your front porch when it is safe to come outside. 
-
-The purpose of this project is to provide the citizens of Night Vale with a website for their beloved NVCR. It will provide them with the monthly community calendar, the daily weather, the citizen of the month, and an opportunity to apply to intern at the radio station (applications are accepted on a rolling basis).
+Sexual Health Check Online is a spot where people looking for assistance with their sexual health 
+can seek out information on clinics and other supports in the Dublin area.
 
 ## UX User Experience
 ### Project Goals
