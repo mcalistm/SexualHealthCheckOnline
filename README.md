@@ -82,11 +82,11 @@ The color palette for this site is inspired by the color palette for the Welcome
 
 ##### Fonts
 
-The two fonts I used for this site are [Oswald](https://fonts.google.com/specimen/Oswald?query=oswald) 
-and [Raleway](https://fonts.google.com/specimen/Raleway?query=raleway). I chose these two because they 
-work smoothly together, and have a simplistic, sans-serif style similar to that of the podcast's official site. 
-In addition to this, I chose the sans-serif style because it allowed the information to take the forefront rather
-than the focus being on the text itself.
+The two fonts I used for this site are [Open Sans](https://fonts.google.com/specimen/Open+Sans) 
+and [Roboto](https://fonts.google.com/specimen/Roboto). I chose these two because I found after cursory
+research that in 2020, Open Sans was the top used font on hospital websites, according to 
+[ilovewp.com](https://www.ilovewp.com/resources/medical/wordpress-for-hospitals/most-used-google-fonts-on-hospital-websites/).
+I then chose Roboto because it was one of the top paired fonts on Google Fonts.
 
 ##### Icons
 
