@@ -327,3 +327,4 @@ undertakings I've committed to in quite a while. I'm so, so glad I did it.
 * [George Pyott](https://github.com/Geomint)'s Holiday Destinations
 [README.md file](https://github.com/Geomint/holiday-destinations/blob/master/README.md),
 shown to me by Simen.
+* [Get Lat Long from Address](https://www.latlong.net/convert-address-to-lat-long.html)
