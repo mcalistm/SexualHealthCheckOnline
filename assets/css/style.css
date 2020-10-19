@@ -11,3 +11,8 @@ body {
     text-align: center;
 }
 
+/* Map */
+#map {
+    min-height: 360px;
+    min-width: 400px;
+}
